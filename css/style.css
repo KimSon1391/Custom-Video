@@ -33,7 +33,7 @@ h1 {
 
 .screen {
     cursor: pointer;
-    width: 70%;
+    width: 60%;
     height: 500px;
     background: #000 !important;
     border-top-left-radius: 10px;
